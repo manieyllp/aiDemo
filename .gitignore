@@ -1,0 +1,7 @@
+.idea
+reports/
+target/
+test-output/
+*pom.properties
+*_config.properties
+.settings

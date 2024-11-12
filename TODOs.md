@@ -1,0 +1,2 @@
+- [] need to check logic for Exceuting scripts for All form factor sequecially.
+- [] Check xpath for Android Tab & iPad whether its same as phone.
